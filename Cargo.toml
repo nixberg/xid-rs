@@ -1,0 +1,9 @@
+[package]
+name = "xid"
+version = "0.1.0"
+authors = ["nixberg <k.nixberg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0"
+xoodyak = { git = "https://github.com/nixberg/xoodyak-rs" }
