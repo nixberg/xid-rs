@@ -6,4 +6,4 @@ edition = "2018"
 
 [dependencies]
 rand = "^0.8.3"
-xoodyak = { git = "https://github.com/nixberg/xoodyak-rs" }
+xoodyak = { git = "https://github.com/nixberg/xoodyak-rs", version = "0" }
